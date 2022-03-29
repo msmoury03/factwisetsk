@@ -1,0 +1,17 @@
+.searchdiv{
+    border-radius: 10px;
+    border: 1px solid grey;
+    display: flex;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.searchdiv input{
+    width: 99%;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    margin: 0px 10px;
+}
